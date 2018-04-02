@@ -24,7 +24,7 @@
 - midterm (in class, TBA)
 - final (06/09/2018, 8-11 am) 
 
-##[Grading Policy](https://www.dropbox.com/s/r0eajhqm6x2c1yz/grading.pdf?dl=0)
+##Grading Policy: [PDF](https://www.dropbox.com/s/r0eajhqm6x2c1yz/grading.pdf?dl=0)
 
  - 50% for assignments
  - 20% for midterm
@@ -39,6 +39,6 @@
  
 ### Homework/Assignments
 
-- [Assignment 1, due 04/10/2018 by midnight]()
+- [Assignment 1, due 04/10/2018 by midnight](https://github.com/vibansal/CSE182/tree/master/assignments/a1.pdf)
 
 
