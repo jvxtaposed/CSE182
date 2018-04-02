@@ -7,8 +7,8 @@
 
 - **Lectures** (Tuesday/Thursday 2-3:20 pm) in HSS 1128A
 - **Discussion** section: Friday, 1:00-1:50 pm in WLH 2207 
-- Instructor Office hours (TBD, BRF-2 2119)
-- TA office hours: TBD
+- Instructor Office hours: Monday, 1-2 pm, BRF-2 2119
+- TA office hours: Friday, 2-3 pm, CSE 4256 
 
 ### Overview 
 
@@ -24,6 +24,12 @@
 - midterm (in class, TBA)
 - final (06/09/2018, 8-11 am) 
 
+##[Grading Policy](https://www.dropbox.com/s/r0eajhqm6x2c1yz/grading.pdf?dl=0)
+
+ - 50% for assignments
+ - 20% for midterm
+ - 30% for final 
+
 ### LINKS
 
  - [Lectures and Reading](https://github.com/vibansal/CSE182/blob/master/lectures/readme.md)
@@ -32,5 +38,7 @@
  - [Academic Integrity](https://www.dropbox.com/s/s7ugrqp3ykpu5np/AcademicIntegrityPolicy.pdf?dl=0)
  
 ### Homework/Assignments
+
+- [Assignment 1, due 04/10/2018 by midnight]()
 
 
