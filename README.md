@@ -33,7 +33,7 @@
 ### LINKS
  - [Lecture Slides](https://github.com/vibansal/CSE182/blob/master/lectures/readme.md)
  - [Piazza Discussion Board](https://piazza.com/ucsd/spring2018/cse182/home) (to ask questions about or discuss course material/logistics)
- - [Gradescope](https://gradescope.com/) (to submit homework assignments)
+ - [Gradescope](https://gradescope.com/) (to submit homework assignments, **send email to TA or instructor if you need the code to signup**)
  - [Academic Integrity](https://www.dropbox.com/s/s7ugrqp3ykpu5np/AcademicIntegrityPolicy.pdf?dl=0)
  
 ### Homework/Assignments
