@@ -17,7 +17,7 @@
 
 ### Overview 
 
-- This course will provide an introduction to Biological data analysis including the underlying methods for querying Biological databases. Not much biology background is needed but familiarity with programming, algorithms and data structures is needed. Another section for this course is being taught concurrently by Professor Vineet Bafna (Tu/Th 8-9:20 am) and the two sections will cover the same material. 
+- This course will provide an introduction to Biological data analysis including the underlying methods for querying Biological databases. Not much biology background is needed but familiarity with programming, algorithms and data structures is needed. Another [section](http://proteomics.ucsd.edu/vbafna/teaching-2/cse182-biological-data-analysis/) for this course is being taught concurrently by Professor Vineet Bafna and the two sections will cover the same material. 
 
 - There is no required textbook for this course, lecture slides will be provided on the course webpage but are not a substitute for lecture notes. We will use  http://bioinformaticsalgorithms.com/, as an optional book.  Future recommended reading will be provided as needed. For Biology, the classic reference  Molecular Biology of the Cell  is available [online](http://www.ncbi.nlm.nih.gov/books/NBK21054/).
 
@@ -26,14 +26,14 @@
 
 ### Grading Policy
 
- - 50% for assignments (can do a project instead of last two assignments)
+ - 50% for assignments (can do a project instead of last two assignments, [details]())
  - 20% for midterm
  - 30% for final 
 
 ### LINKS
  - [Lecture Slides](https://github.com/vibansal/CSE182/blob/master/lectures/readme.md)
  - [Piazza Discussion Board](https://piazza.com/ucsd/spring2018/cse182/home) (to ask questions about or discuss course material/logistics)
- - [Gradescope](https://gradescope.com/) (to submit homework assignments, **send email to TA or instructor if you need the code to signup**)
+ - [Gradescope](https://gradescope.com/) (to submit homework assignments, code MKYE7Z for signup)
  - [Academic Integrity](https://www.dropbox.com/s/s7ugrqp3ykpu5np/AcademicIntegrityPolicy.pdf?dl=0)
  
 ### Homework/Assignments
