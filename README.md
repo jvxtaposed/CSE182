@@ -24,9 +24,9 @@
 - midterm (in class, TBA)
 - final (06/09/2018, 8-11 am) 
 
-##Grading Policy: [PDF](https://www.dropbox.com/s/r0eajhqm6x2c1yz/grading.pdf?dl=0)
+### Grading Policy
 
- - 50% for assignments
+ - 50% for assignments (can do a project instead of last two assignments)
  - 20% for midterm
  - 30% for final 
 
