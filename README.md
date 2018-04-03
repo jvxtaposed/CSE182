@@ -11,7 +11,7 @@
 ### Schedule 
 
 - **Lectures** (Tuesday/Thursday 2-3:20 pm) in HSS 1128A
-- **Discussion** section: Friday, 1:00-1:50 pm in WLH 2207 
+- **Discussion** section: Friday, 1:00-1:50 pm in WLH 2207 by Peter Edge
 - midterm (in class, TBA)
 - final (06/09/2018, 8-11 am) 
 
