@@ -32,7 +32,6 @@
 
 ### LINKS
 
- - [Lectures and Reading](https://github.com/vibansal/CSE182/blob/master/lectures/readme.md)
  - [Piazza Discussion Board](https://piazza.com/ucsd/spring2018/cse182/home) (to ask questions about or discuss course material/logistics)
  - [Gradescope](https://gradescope.com/) (to submit homework assignments)
  - [Academic Integrity](https://www.dropbox.com/s/s7ugrqp3ykpu5np/AcademicIntegrityPolicy.pdf?dl=0)
@@ -47,5 +46,9 @@
 | ------------- |:-------------:| -----:|
 | [A1](https://github.com/vibansal/CSE182/blob/master/assignments/a1.pdf) | 04/10/2018 (midnight) | [Datafile](https://github.com/vibansal/CSE182/blob/master/assignments/datafile.txt) | 
 
+### Lectures 
 
+| Date | Topic | Slides | Suggested Reading | 
+| ------------- |:-------------:| -----:|
+| 04/03/2018 | Course outline | [PDF](https://www.dropbox.com/s/635a3cemxnv65kh/L1.pdf?dl=0) | [Bioinformatics Algorithms](http://bioinformaticsalgorithms.com/) | 
 
