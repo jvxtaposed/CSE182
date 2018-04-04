@@ -24,7 +24,7 @@
 - Informal syllabus for the course is available [here](https://www.dropbox.com/s/rcpdzixvjgg6fds/syllabus_outline.pdf?dl=0)
 
 
-### Grading Policy
+### Grading
 
  - 50% for assignments (5 in total)
  - Students can do a project instead of the last two assignments. Projects can be done in teams of 2-3. Students must commit to a project by midterm 1. 
