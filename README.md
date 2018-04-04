@@ -38,6 +38,7 @@
  
 ### Homework/Assignments
 
+- Submit the code and the output (text file) for the assignment via Gradescope. 
 - Late assignment policy. 10% off for each day after the submission deadline.
 - No submission accepted 3 days beyond due date.
 - Regrade requests must be made on Gradescope, within 7 days after graded assignments are returned. No regrade request will be accepted subsequently.
