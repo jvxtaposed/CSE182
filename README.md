@@ -1,7 +1,7 @@
 ### CSE182 (Spring 2018) Biological Data Analysis
 
 - Instructor: Vikas Bansal (vibansal at ucsd.edu)
-- Office hours: Monday, 1-2 pm, BRF-2 2119
+- Office hours: Monday, 1-2 pm, [BRF-2](https://www.google.com/maps/place/Biomedical+Research+Facility+II,+UCSD/@32.8744664,-117.2371338,17z/data=!3m1!4b1!4m5!3m4!1s0x80dc06cf83785c07:0xef0daf822e4bf0d4!8m2!3d32.8744664!4d-117.2349451) 2119
 
 ### Teaching Assistants
 - Primary: Peter Edge (Office hours: Friday, 2-3 pm, CSE 4256)
