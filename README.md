@@ -12,7 +12,7 @@
 
 - **Lectures** (Tuesday/Thursday 2-3:20 pm) in HSS 1128A
 - **Discussion** section: Friday, 1:00-1:50 pm in WLH 2207 by Peter Edge
-- midterm (in class, TBA)
+- midterm (in class, 05/10/2018)
 - final (06/09/2018, 8-11 am) 
 
 ### Overview 
@@ -26,7 +26,8 @@
 
 ### Grading Policy
 
- - 50% for assignments (can do a project instead of last two assignments, [details]())
+ - 50% for assignments
+ - Students can choose to do 5 assignments, or 3 assignments and a project. Projects can be done in teams of 2-3. Students must must commit to a project by midterm 1.
  - 20% for midterm
  - 30% for final 
 
@@ -39,9 +40,9 @@
 ### Homework/Assignments
 
 - Submit the code and the output (text file) for the assignment via Gradescope. 
-- Late assignment policy. 10% off for each day after the submission deadline.
+- Late assignment policy: 10% off for each day after the submission deadline. 
 - No submission accepted 3 days beyond due date.
-- Regrade requests must be made on Gradescope, within 7 days after graded assignments are returned. No regrade request will be accepted subsequently.
+- Regrade requests must be made on Gradescope within 7 days after graded assignments are returned. No regrade request will be accepted subsequently.
 
 | Assignment | Due Date  | Data & Resources |
 | ------------- |:-------------:| -----:|
