@@ -26,8 +26,8 @@
 
 ### Grading Policy
 
- - 50% for assignments
- - Students can choose to do 5 assignments, or 3 assignments and a project. Projects can be done in teams of 2-3. Students must must commit to a project by midterm 1.
+ - 50% for assignments (5 in total)
+ - Students can do a project instead of the last two assignments. Projects can be done in teams of 2-3. Students must commit to a project by midterm 1. 
  - 20% for midterm
  - 30% for final 
 
