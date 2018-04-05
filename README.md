@@ -5,8 +5,8 @@
 
 ### Teaching Assistants
 - Primary: Peter Edge (Office hours: Friday, 2-3 pm, CSE 4256)
-- Additional: Mehrdad Bakhtiari (Office hours: Thursday 4-5 pm CSE4250)
-- Additional: Lihui (Luna) Lu (Office hours: Wednesday 12:00pm-2:00pm CSE B260A)
+- Additional: Mehrdad Bakhtiari (Office hours: Thursday 4-5 pm, CSE 4250)
+- Additional: Lihui (Luna) Lu (Office hours: Wednesday 12:00pm-2:00pm, CSE B260A)
 
 ### Schedule 
 
