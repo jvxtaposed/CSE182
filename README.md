@@ -47,5 +47,7 @@
 | Assignment | Due Date  | Data & Resources |
 | ------------- |:-------------:| -----:|
 | [A1](https://github.com/vibansal/CSE182/blob/master/assignments/a1.pdf) | 04/10/2018 (midnight) | [Datafile](https://github.com/vibansal/CSE182/blob/master/assignments/datafile.txt) | 
+| [A2]https://www.dropbox.com/s/osrilbmhlruvgek/A2.pdf?dl=0) | 04/25/2018 (midnight) | [problem 1 sequences](https://www.dropbox.com/s/lb0ry5kpaxq76vk/p1seqs.txt?dl=0) <br> [problem 4 sequences](https://www.dropbox.com/s/6kxlsn4zsolsjur/p4seqs.txt?dl=0) |
+
 
 
