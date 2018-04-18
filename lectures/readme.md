@@ -8,7 +8,7 @@
 | 3 | 04/10/2018 | sequence alignment (continued), scoring matrices | [PDF](https://www.dropbox.com/s/74nf9yxzifkhv2c/L3.pdf?dl=0) | [PAM matrices](https://www.dropbox.com/s/h6la1f2ee26jxsi/mount2008_pam_matrices.pdf?dl=0) <br> [basics of PAM](https://en.wikipedia.org/wiki/Point_accepted_mutation) <br> [BLOSUM matrices](http://www.marcottelab.org/users/BCH339N_2018/BLOSUM62Miscalculations.pdf)  |
 | 4 | 04/12/2018 | scoring matrices, E-values & p-values | [PDF](https://www.dropbox.com/s/9lwg4uag9rjvj76/L4-041218.pdf?dl=0) | [Blast statistics](https://www.ncbi.nlm.nih.gov/BLAST/tutorial/Altschul-1.html)  |
 | 5 | 04/17/2018 | E-values & p-values, Dictionary matching | [PDF](https://www.dropbox.com/s/ver6xiww7g2tl62/L5-041718-updated.pdf?dl=0)| [Aho-Corasick algorithm paper](https://biit.cs.ut.ee/~vilo/edu/2002-03/Tekstialgoritmid_I/Articles/Exact/Aho-Corasick.pdf)  |
-| 6 | 04/19/2018 | BLAST wrapup, regular expressions | () | | 
+| 6 | 04/19/2018 | BLAST wrapup, regular expressions | | | 
 
 
 
