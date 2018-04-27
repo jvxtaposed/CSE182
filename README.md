@@ -50,4 +50,10 @@
 | [A2](assignments/A2.pdf) | 04/25/2018 (midnight) | [problem 1 sequences](assignments/p1seqs.txt), [problem 4 sequences](https://raw.githubusercontent.com/vibansal/CSE182/master/assignments/p4seqs.txt) <br> (right click to download) |
 | [A3](assignments/A3.pdf) | 05/12/2018 (midnight) | [README](assignments/Readme.txt) <br> [DNA database](assignments/DNA.txt) <br> [query keywords 1](assignments/queries.txt) <br> [query keywords 2](assignments/queries2.txt) |
 
+**Assignment 3 README**
 
+- The file DNA.txt is a portion of the human genomic sequence, and is the database in which keywords need to be found.
+
+- The files queries.txt and queries2.txt are dictionaries. Each line in the files is a distinct keyword. A 'match' refers to an exact match (no mismatches or indels) of the entire keyword to a sub-string of the database.
+
+- You must search both dictionaries:queries.txt and queries2.txt. For each keyword in queries.txt and queries2.txt, you must report the number of matches found. For the smaller file queries.txt, you must comment on whether the number of matches is less than what you expected, more, or about the same. Here, the expected value is based upon an E-value calculation.
