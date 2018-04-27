@@ -9,7 +9,7 @@
 | 4 | 04/12/2018 | scoring matrices, E-values & p-values | [PDF](https://www.dropbox.com/s/9lwg4uag9rjvj76/L4-041218.pdf?dl=0) | [Blast statistics](https://www.ncbi.nlm.nih.gov/BLAST/tutorial/Altschul-1.html)  |
 | 5 | 04/17/2018 | E-values & p-values, Dictionary matching | [PDF](https://www.dropbox.com/s/ver6xiww7g2tl62/L5-041718-updated.pdf?dl=0)| [Aho-Corasick algorithm paper](https://biit.cs.ut.ee/~vilo/edu/2002-03/Tekstialgoritmid_I/Articles/Exact/Aho-Corasick.pdf)  |
 | 6 | 04/24/2018 | BLAST wrapup, regular expressions | [PDF](https://www.dropbox.com/s/k0tylac7weae6oa/L6-042418.pdf?dl=0) | [BLAST paper](https://www.dropbox.com/s/nztypl5oxbmp0h8/blast1990paper.pdf?dl=0) | 
-| 7 | 04/26/2018 | regular expressions, profiles | [PDF](https://www.dropbox.com/s/1oeib250af1y2tq/L7-042618.pdf?dl=0) |  | 
+| 7 | 04/26/2018 | regular expressions, profiles | [PDF](https://www.dropbox.com/s/1oeib250af1y2tq/L7-042618.pdf?dl=0) | [psi-BLAST](https://www.ncbi.nlm.nih.gov/BLAST/tutorial/Altschul-2.html)  | 
 | 8 | 04/27/2018 | HMMs |  |  | 
 
 
