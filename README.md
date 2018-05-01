@@ -19,7 +19,7 @@
 
 - This course will provide an introduction to Biological data analysis including the underlying methods for querying Biological databases. Not much biology background is needed but familiarity with programming, algorithms and data structures is needed. Another [section](http://proteomics.ucsd.edu/vbafna/teaching-2/cse182-biological-data-analysis/) for this course is being taught concurrently by Professor Vineet Bafna and the two sections will cover the same material. 
 
-- There is no required textbook for this course, lecture slides will be provided on the course webpage but are not a substitute for lecture notes. We will use  http://bioinformaticsalgorithms.com/, as an optional book.  Future recommended reading will be provided as needed. For Biology, the classic reference  Molecular Biology of the Cell  is available [online](http://www.ncbi.nlm.nih.gov/books/NBK21054/).
+- There is no required textbook for this course, lecture slides will be provided on the course webpage but are not a substitute for lecture notes. References for each lecture and recommended reading will be provided as needed. For Biology, the classic reference  Molecular Biology of the Cell  is available [online](http://www.ncbi.nlm.nih.gov/books/NBK21054/).
 
 - Informal syllabus for the course is available [here](https://www.dropbox.com/s/rcpdzixvjgg6fds/syllabus_outline.pdf?dl=0)
 
