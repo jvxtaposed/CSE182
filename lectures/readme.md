@@ -11,7 +11,7 @@
 | 6 | 04/24/2018 | BLAST wrapup, regular expressions | [PDF](https://www.dropbox.com/s/k0tylac7weae6oa/L6-042418.pdf?dl=0) | [BLAST paper](https://www.dropbox.com/s/nztypl5oxbmp0h8/blast1990paper.pdf?dl=0) | 
 | 7 | 04/26/2018 | regular expressions, profiles | [PDF](https://www.dropbox.com/s/1oeib250af1y2tq/L7-042618.pdf?dl=0) | [psi-BLAST](https://www.ncbi.nlm.nih.gov/BLAST/tutorial/Altschul-2.html)  | 
 | 8 | 04/27/2018 | HMMs | [PDF](https://www.dropbox.com/s/2mx7mgmtruqe7v8/L8-042718.pdf?dl=0) |  | 
-
+| 9 | 05/01/2018 | HMMs continued | [PDF](https://www.dropbox.com/s/xb8w30egjp9ooud/L9.pdf?dl=0) | | 
 
 
 <br><br>
