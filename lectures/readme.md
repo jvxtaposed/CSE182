@@ -12,7 +12,7 @@
 | 7 | 04/26/2018 | regular expressions, profiles | [PDF](https://www.dropbox.com/s/1oeib250af1y2tq/L7-042618.pdf?dl=0) | [psi-BLAST](https://www.ncbi.nlm.nih.gov/BLAST/tutorial/Altschul-2.html) <br> [Prosite](https://prosite.expasy.org)  | 
 | 8 | 04/27/2018 | HMMs | [PDF](https://www.dropbox.com/s/2mx7mgmtruqe7v8/L8-042718.pdf?dl=0) | pages 51-60 of [Durbin book](https://pdfs.semanticscholar.org/2ed5/d6b35f8971fb9d7434a2683922c3bfcc058e.pdf) | 
 | 9 | 05/01/2018 | HMMs continued | [PDF](https://www.dropbox.com/s/xb8w30egjp9ooud/L9.pdf?dl=0) | [What is a HMM, article by Sean Eddy, 2004](https://www.nature.com/articles/nbt1004-1315.pdf) <br> [Pfam website](https://pfam.xfam.org) | 
-
+| 10 | 05/03/2018 | Gene finding | [PDF](https://www.dropbox.com/s/hxhiymli7p5spp4/L10.pdf?dl=0) | |
 
 <br><br>
 Podcast of the CSE 182 section taught by Professor Vineet Bafna is [available](https://podcast.ucsd.edu/podcasts/default.aspx?PodcastId=4722). 
