@@ -15,4 +15,10 @@
 | 10 | 05/03/2018 | Gene finding | [PDF](https://www.dropbox.com/s/hxhiymli7p5spp4/L10.pdf?dl=0) | |
 
 <br><br>
+
+| 12 | 05/10/2018 | Midterm | [PDF](https://www.dropbox.com/s/y7pgljpjow8xf1s/NotesAndQuestions.pdf?dl=0) | Review questions | 
+
+<br><br>
 Podcast of the CSE 182 section taught by Professor Vineet Bafna is [available](https://podcast.ucsd.edu/podcasts/default.aspx?PodcastId=4722). 
+
+<br><br>
