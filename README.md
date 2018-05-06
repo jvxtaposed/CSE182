@@ -12,7 +12,7 @@
 
 - **Lectures** (Tuesday/Thursday 2-3:20 pm) in HSS 1128A
 - **Discussion** section: Friday, 1:00-1:50 pm in WLH 2207 by Peter Edge
-- midterm (in class, 05/10/2018)
+- **midterm (in class, 05/10/2018)**: Syllabus includes everything till 5/3/2018 lecture. Please bring a calculator & your ID. You can bring a one-page hand-written sheet of notes
 - final (06/09/2018, 8-11 am) 
 
 ### Overview 
