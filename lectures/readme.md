@@ -13,10 +13,10 @@
 | 8 | 04/27/2018 | HMMs | [PDF](https://www.dropbox.com/s/2mx7mgmtruqe7v8/L8-042718.pdf?dl=0) | pages 51-60 of [Durbin book](https://pdfs.semanticscholar.org/2ed5/d6b35f8971fb9d7434a2683922c3bfcc058e.pdf) | 
 | 9 | 05/01/2018 | HMMs continued | [PDF](https://www.dropbox.com/s/xb8w30egjp9ooud/L9.pdf?dl=0) | [What is a HMM, article by Sean Eddy, 2004](https://www.nature.com/articles/nbt1004-1315.pdf) <br> [Pfam website](https://pfam.xfam.org) | 
 | 10 | 05/03/2018 | Gene finding | [PDF](https://www.dropbox.com/s/hxhiymli7p5spp4/L10.pdf?dl=0) | |
+| 11 | 05/08/2018 | Gene finding (continued), midterm review |  |  | 
+| 12 | 05/10/2018 | **Midterm** | [2017 Midterm](https://www.dropbox.com/s/vvoqr93g86zpmrs/mt.2017.pdf?dl=0) | | | 
 
 <br><br>
-
-| 12 | 05/10/2018 | Midterm | [PDF](https://www.dropbox.com/s/y7pgljpjow8xf1s/NotesAndQuestions.pdf?dl=0) | Review questions | 
 
 <br><br>
 Podcast of the CSE 182 section taught by Professor Vineet Bafna is [available](https://podcast.ucsd.edu/podcasts/default.aspx?PodcastId=4722). 
