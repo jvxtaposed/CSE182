@@ -14,7 +14,7 @@
 | 9 | 05/01/2018 | HMMs continued | [PDF](https://www.dropbox.com/s/xb8w30egjp9ooud/L9.pdf?dl=0) | [What is a HMM, article by Sean Eddy, 2004](https://www.nature.com/articles/nbt1004-1315.pdf) <br> [Pfam website](https://pfam.xfam.org) | 
 | 10 | 05/03/2018 | Gene finding | [PDF](https://www.dropbox.com/s/hxhiymli7p5spp4/L10.pdf?dl=0) | |
 | 11 | 05/08/2018 | Gene finding (continued), midterm review |  | [Review questions](https://www.dropbox.com/s/y7pgljpjow8xf1s/NotesAndQuestions.pdf?dl=0)  | 
-| 12 | 05/10/2018 | **Midterm**  | [2017 Midterm](https://www.dropbox.com/s/vvoqr93g86zpmrs/mt.2017.pdf?dl=0)|  | 
+| 12 | 05/10/2018 | **Midterm**  | | [2017 Midterm](https://www.dropbox.com/s/vvoqr93g86zpmrs/mt.2017.pdf?dl=0) | 
 
 <br><br>
 
