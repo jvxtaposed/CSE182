@@ -12,14 +12,14 @@
 
 - **Lectures** (Tuesday/Thursday 2-3:20 pm) in HSS 1128A
 - **Discussion** section: Friday, 1:00-1:50 pm in WLH 2207 by Peter Edge
-- midterm (in class, 05/10/2018)
+- **midterm (in class, 05/10/2018)**: Syllabus includes everything till 5/3/2018 lecture. Please bring a calculator & your ID. You can bring a one-page hand-written sheet of notes
 - final (06/09/2018, 8-11 am) 
 
 ### Overview 
 
 - This course will provide an introduction to Biological data analysis including the underlying methods for querying Biological databases. Not much biology background is needed but familiarity with programming, algorithms and data structures is needed. Another [section](http://proteomics.ucsd.edu/vbafna/teaching-2/cse182-biological-data-analysis/) for this course is being taught concurrently by Professor Vineet Bafna and the two sections will cover the same material. 
 
-- There is no required textbook for this course, lecture slides will be provided on the course webpage but are not a substitute for lecture notes. We will use  http://bioinformaticsalgorithms.com/, as an optional book.  Future recommended reading will be provided as needed. For Biology, the classic reference  Molecular Biology of the Cell  is available [online](http://www.ncbi.nlm.nih.gov/books/NBK21054/).
+- There is no required textbook for this course, lecture slides will be provided on the course webpage but are not a substitute for lecture notes. References for each lecture and recommended reading will be provided as needed. For Biology, the classic reference  Molecular Biology of the Cell  is available [online](http://www.ncbi.nlm.nih.gov/books/NBK21054/).
 
 - Informal syllabus for the course is available [here](https://www.dropbox.com/s/rcpdzixvjgg6fds/syllabus_outline.pdf?dl=0)
 
@@ -39,7 +39,7 @@
  
 ### Homework/Assignments
 
-- Submit the code and the output (text file) for the assignment via Gradescope. 
+- Submit the code and the output for the assignment via Gradescope. 
 - Late assignment policy: 10% off for each day after the submission deadline. 
 - No submission accepted 3 days beyond due date.
 - Regrade requests must be made on Gradescope within 7 days after graded assignments are returned. No regrade request will be accepted subsequently.
@@ -47,5 +47,6 @@
 | Assignment | Due Date  | Data & Resources |
 | ------------- |:-------------:| -----:|
 | [A1](https://github.com/vibansal/CSE182/blob/master/assignments/a1.pdf) | 04/10/2018 (midnight) | [Datafile](https://github.com/vibansal/CSE182/blob/master/assignments/datafile.txt) | 
-
+| [A2](assignments/A2.pdf) | 04/25/2018 (midnight) | [problem 1 sequences](assignments/p1seqs.txt), [problem 4 sequences](https://raw.githubusercontent.com/vibansal/CSE182/master/assignments/p4seqs.txt) <br> (right click to download) |
+| [A3](assignments/A3.pdf) | 05/12/2018 (midnight) | [README](assignments/A3_readme.txt) <br> [DNA database](assignments/DNA.txt) <br> [query keywords 1](assignments/queries.txt) <br> [query keywords 2](assignments/queries2.txt) |
 
